@@ -37,6 +37,7 @@ Platforms featuring remote opportunities across multiple industries and discipli
 - [Jobspresso](https://jobspresso.co/) — Curated remote jobs in technology, marketing, and support.
 - [Working Nomads](https://www.workingnomads.com/) — Remote jobs for professionals and digital nomads.
 - [Remote Jobs](https://remotejobs.com/) — Global remote job marketplace.
+- [Remotejobify](https://remotejobify.app/) — Remote jobs listed by the countries they hire from, with the line from each post that proves it.
 
 ## Technology & Developer Job Boards
 
